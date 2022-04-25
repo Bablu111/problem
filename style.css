@@ -1,0 +1,33 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-style:italic;
+	text-transform:capitalize;
+}
+
+
+.container{
+	
+	width:100%;
+	height:auto;
+	background-color:#FC4021;
+	display:flex;
+	margin:0 1px;
+	padding:10px 0px 10px 60px;
+	
+	
+	
+}
+
+.first{
+	
+	width:20%;
+	font-size:19px;
+	font-style:bold;
+}
+	
+.secand{
+	width:80%;
+	font-size:19px;
+}
